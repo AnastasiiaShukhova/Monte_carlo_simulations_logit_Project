@@ -10,7 +10,7 @@ In short, the fomework covers the following topics:
 
 3. Model Selection: self-programmed ROC curve 
 
-4. Model Specification Issues and Monte Carlo expriment
+4. Model Specification Issues and Monte Carlo experiment
 
 
 
